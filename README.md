@@ -10,5 +10,5 @@ Basic Sales Checker for Roblox, easily able to check if a user bought by providi
 - Includes what gamepass was bought through name
 - Includes how much the gamepass was before taxes fucked it
 - Includes the date and time that the gamepass was bought
-- 
+
 ![image (1)](https://user-images.githubusercontent.com/82015460/212562448-87b7c585-37ba-4988-9dea-7306e606c2b7.png)
