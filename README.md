@@ -1,5 +1,7 @@
 # Sales Checker
 Basic Sales Checker for Roblox, easily able to check if a user bought by providing their username.
+Made by track#0001 [414911741676355584]
+https://discord.gg/iku
 
 # Setup
 - Run the "install.bat" file to install all the modules required
