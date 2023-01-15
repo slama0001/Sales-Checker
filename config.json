@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "BotID": "",
+    "RBLXCookie": "",
+    "GroupID": "",
+
+    "NOTICE": "ANYTHING BELOW HERE IS A NOTE, THESE ARE NOT THE ACTUAL CONFIGURATIONS. CONFIGURATIONS ARE LISTED ABOVE.",
+    "token_Comment": "The bots token that can be aquired through the Developer Portal.",
+    "BotID_Comment": "The bots client ID that can be aquired through the Developer Portal.",
+    "RBLXCookie_Comment": "Your roblox cookie, this will be used to login to the account and check sales.",
+    "GroupID_Comment": "The Group ID that you're checking sales of"
+}
